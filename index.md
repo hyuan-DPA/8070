@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 8070 Portfolio
+### Hang Yuan
 
 You can use the [editor on GitHub](https://github.com/hyuan-DPA/8070/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
